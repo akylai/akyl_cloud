@@ -1,0 +1,22 @@
+.profile {
+  background-color: rgba(2, 17, 36, 0.8);
+  padding: 50px 150px;
+
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  color: #fff;
+}
+
+.upload__avatar {
+  width: 300px;
+  border: 1.5px solid #fff;
+  padding: 10px;
+  border-radius: 10px;
+  background: #1bbc9b;
+  text-align: center;
+  margin-left: 10px;
+  color: #fff;
+  font-weight: 700;
+}
