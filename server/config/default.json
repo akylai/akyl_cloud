@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://akylai:turganova98@akylcloud.jsh3p.mongodb.net/akylcloud?retryWrites=true&w=majority",
+  "secretKey": "akyl-secret-key",
+  "filePath": "D:\\дипломка Акылай\\akyl-cloud-disc\\server\\files",
+  "staticPath": "D:\\дипломка Акылай\\akyl-cloud-disc\\server\\static"
+}
